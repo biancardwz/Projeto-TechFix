@@ -1,17 +1,20 @@
 # TechFix - Gestão de Ordens de Serviço
-*Status: Em desenvolvimento*
 
-### Tecnologias
+## Status do projeto
+Em desenvolvimento.
+
+## Tecnologias aplicadas
 - Java (Swing)
 - MySQL
 - JDBC
 
-### Equipe
+## Time de desenvolvedores
 - @author Bianca
 
-### Objetivo
-Software desktop para automação e controle de Ordens de Serviço de uma assistência técnica.
+## Objetivo do software
+Software desktop desenvolvido para automação e controle de Ordens de Serviço (O.S.) de uma assistência técnica.
 
-### Funcionalidades
+## Funcionalidades do sistema
 - Cadastro de Clientes.
-- Geração e salvamento de Ordens de Serviço no banco de dados MySQL.
+- Registro de Ordens de Serviço com descrição, status e valor.
+- Persistência de dados em banco de dados MySQL.
